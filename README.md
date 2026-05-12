@@ -1,20 +1,20 @@
 <a name="readme-top"></a>
-
+f
 <br />
-<div align="center">
-  <a href="https://github.com/benmotyka/my-plants_app">
+<div align="center">d
+  <a href="https://github.com/benmotyka/my-plants_app">xa
     <img src="readme/banner.png" alt="Banner">
   </a>
-  <h1 align="center">My Plants</h1>
+  <h1 align="center">My Plants</h1>f
   <h5 align="center">Mobile App</h5>
   <p align="center">
     <a href="https://github.com/benmotyka/my-plants_app/issues">Report Bug</a>
     ·
     <a href="https://github.com/benmotyka/my-plants_app/issues">Request Feature</a>
   </p>
-</div>
+</div>v
 
-<!-- TABLE OF CONTENTS -->eds
+<!-- TABLE OF CONTENTS -->edsv
 <details>
   <summary>Table of Contents</summary>
   <ol>
